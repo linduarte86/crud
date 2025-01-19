@@ -1,0 +1,4 @@
+# Os arquivos contidos no gitignore serão ignorados no repositório.
+
+# Arquivos de ambiente
+.env
